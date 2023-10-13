@@ -16,7 +16,7 @@ Name - SINGAMALA SHARISHMA
 LEARNING TRACK - DEVELOPER
 Email - singamalasharishma@gmail.com
 Trailhead Profile - https://www.salesforce.com/trailblazer/sharishmasingamala
-Username (Developer Org) - singamalasharishma@gdcpeoject.com
+Username (Developer Org) - singamalasharishma@gdcproject.com
 Contact - 6300 258 722
 
 Name - PANDITI REVATHI
