@@ -1,1 +1,27 @@
+Name - VALLIGATLA SIREESHA
+LEARNING TRACK - DEVELOPER
+Email - valligatlasiri@gmail.com 
+Trailhead Profile - https://www.salesforce.com/trailblazer/sireeshavalligatla
+Username (Developer Org) - valligatlasiri@gdcproject.com
+Contact - 7337402852
 
+Name - VADDAMANI SUNITHA
+LEARNING TRACK - DEVELOPER
+Email - sunitha20062003@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/sunithavaddamani
+Username (Developer Org) - sunithavaddamani@gdcproject.com
+Contact - 79937 01870
+
+Name - SINGAMALA SHARISHMA
+LEARNING TRACK - DEVELOPER
+Email - singamalasharishma@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/sharishmasingamala
+Username (Developer Org) - singamalasharishma@gdcpeoject.com
+Contact - 6300 258 722
+
+Name - PANDITI REVATHI
+LEARNING TRACK - DEVELOPER
+Email - panditirevathi7@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/revathipanditi
+Username (Developer Org) - panditirevathi7@gdcproject.com
+Contact - 73375 56261
